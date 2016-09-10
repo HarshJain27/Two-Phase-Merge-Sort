@@ -1,4 +1,4 @@
-# Two-Phase-Merge-Sort-
+# Two-Phase-Merge-Sort
 Implementation of External Sort. Details can be referred from README.
 
 Implementation of two phase merge sort algorithm to sort large number of records with the specifications mentioned below : 
